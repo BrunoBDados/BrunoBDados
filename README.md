@@ -1,24 +1,25 @@
-## Oi, eu sou Bruno!!
+# Olá, eu sou Bruno Barbosa! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBDados&show_icons=true&theme=dracula)
+## Sobre mim
+Sou um engenheiro de dados autodidata com 3 anos de estudos focados em transformar dados em decisões. Trabalho de madrugada e estudo de dia — porque acredito que dados têm o poder de mudar histórias, inclusive a minha.
 
-##
+##  Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
+##  Projetos em Destaque
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBDados&layout=donut&show_icons=true&theme=dracula)](https://github.com/BrunoBDados/github-readme-stats)
+###  [Análise de Despesas dos Deputados Federais (2024)](https://github.com/BrunoBDados/analise-deputados-brasil)
+Pipeline ETL completo consumindo a API da Câmara dos Deputados — 45mil registros extraídos, tratados com Pandas, armazenados no SQL Server e visualizados no Power BI.
+`Python` `Pandas` `SQL Server` `Power BI` `API REST`
 
-##
+##  GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBDados&show_icons=true&theme=dracula)](https://github.com/BrunoBDados)
 
-<div>
-   <a href="https://www.linkedin.com/in/brunobarbosa1108" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:brunobarbosadados@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
+##  Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunobarbosa1108)
+[![Gmail](https://img.shields.io/badge/-Gmail-333?style=flat&logo=gmail&logoColor=white)](mailto:brunobarbosadados@gmail.com)
