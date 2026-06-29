@@ -16,6 +16,9 @@ Sou um engenheiro de dados autodidata com 3 anos de estudos focados em transform
 ###  [Análise de Despesas dos Deputados Federais (2024)](https://github.com/BrunoBDados/analise-deputados-brasil)
 Pipeline ETL completo consumindo a API da Câmara dos Deputados — 45mil registros extraídos, tratados com Pandas, armazenados no SQL Server e visualizados no Power BI.
 `Python` `Pandas` `SQL Server` `Power BI` `API REST`
+###  [Análise do Mercado de TI no Brasil (2024)](https://github.com/BrunoBDados/analise-mercado-ti-brasil)
+Análise de salários e perfil de 1.375 profissionais de TI brasileiros usando o Stack Overflow Developer Survey 2024. Pipeline ETL completo com insights sobre cargos, regime remoto e impacto da educação no salário.
+`Python` `Pandas` `SQL Server` `Power BI` `Stack Overflow Survey`
 
 ##  GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBDados&show_icons=true&theme=dracula)](https://github.com/BrunoBDados)
